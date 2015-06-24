@@ -1,0 +1,20 @@
+{
+    "name": "jonasva/laravel-wechat",
+    "description": "Wechat SDK wrapper for Laravel 4",
+    "keywords": ["Wechat", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonas Van Assche",
+            "email": "jonas.vanassche@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jonasva\\LaravelWechat": "src/"
+        }
+    }
+}
